@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722735129591",
+    "project_id": "aquademo-c7afc",
+    "storage_bucket": "aquademo-c7afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722735129591:android:f8f4e700ac650ef91f84f2",
+        "android_client_info": {
+          "package_name": "com.aquademo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwoKec-6s6kxj1O4hx3CwQaQmbAwksXhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
